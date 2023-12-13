@@ -6,6 +6,10 @@
     {
       "trait_type": "Tier",
       "value": "Pro"
+    },
+    {
+      "trait_type": "Avatar",
+      "value": "Isabella"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Satoshi Edu Tech #2",
+  "description": "",
+  "image": "https://metadata.satoshiedutech.io/nft/angel/video/standard.mp4",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Avatar",
+      "value": "Amelia"
+    }
+  ]
+}
