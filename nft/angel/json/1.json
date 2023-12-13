@@ -1,0 +1,11 @@
+{
+  "name": "Satoshi Edu Tech #1",
+  "description": "",
+  "image": "https://metadata.satoshiedutech.io/nft/angel/video/pro.mp4",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Pro"
+    }
+  ]
+}
